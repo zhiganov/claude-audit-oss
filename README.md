@@ -26,13 +26,13 @@ Output is a scorecard with scores, top priorities, and quick wins.
 ### Quick Install (bash)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/zhiganov/claude-audit-oss/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/zhiganov/claude-audit-oss/master/install.sh | bash
 ```
 
 ### Quick Install (PowerShell)
 
 ```powershell
-irm https://raw.githubusercontent.com/zhiganov/claude-audit-oss/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/zhiganov/claude-audit-oss/master/install.ps1 | iex
 ```
 
 ### Manual Installation

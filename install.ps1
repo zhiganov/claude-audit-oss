@@ -2,7 +2,7 @@
 
 $ErrorActionPreference = "Stop"
 
-$RepoUrl = "https://raw.githubusercontent.com/zhiganov/claude-audit-oss/main"
+$RepoUrl = "https://raw.githubusercontent.com/zhiganov/claude-audit-oss/master"
 $ClaudeDir = "$env:USERPROFILE\.claude"
 
 Write-Host "Installing claude-audit-oss..."

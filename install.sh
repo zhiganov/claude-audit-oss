@@ -3,7 +3,7 @@
 
 set -e
 
-REPO_URL="https://raw.githubusercontent.com/zhiganov/claude-audit-oss/main"
+REPO_URL="https://raw.githubusercontent.com/zhiganov/claude-audit-oss/master"
 CLAUDE_DIR="$HOME/.claude"
 
 echo "Installing claude-audit-oss..."
